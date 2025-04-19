@@ -86,20 +86,20 @@
     <item name="android:isLightTheme">false</item>
     <item name="colorKeyboard">#000000</item>
     <item name="colorKey">#000000</item>
-    <item name="colorKeyActivated">#333333</item>
+    <item name="colorKeyActivated">#000000</item>
     <item name="keyBorderWidth">0dp</item>
     <item name="keyBorderWidthActivated">1dp</item>
-    <item name="keyBorderColorLeft">#2a2a2a</item>
-    <item name="keyBorderColorTop">#2a2a2a</item>
-    <item name="keyBorderColorRight">#2a2a2a</item>
-    <item name="keyBorderColorBottom">#2a2a2a</item>
-    <item name="colorLabel">#eeeeee</item>
-    <item name="colorLabelActivated">#009dff</item>
+    <item name="keyBorderColorLeft">#49136c</item>
+    <item name="keyBorderColorTop">#49136c</item>
+    <item name="keyBorderColorRight">#49136c</item>
+    <item name="keyBorderColorBottom">#49136c</item>
+    <item name="colorLabel">#49136c</item>
+    <item name="colorLabelActivated">#6c1363</item>
     <item name="colorLabelLocked">#00ff26</item>
-    <item name="colorSubLabel">#bbbbbb</item>
+    <item name="colorSubLabel">#49136c</item>
     <item name="keyBorderRadius">1dp</item>
     <item name="emoji_button_bg">#000000</item>
-    <item name="emoji_color">#ffffff</item>
+    <item name="emoji_color">#49136c</item>
   </style>
   <style name="AltBlack" parent="Black">
     <item name="keyBorderWidth">1dp</item>
