@@ -54,6 +54,7 @@
     <item>latn_qwerty_gb</item>
     <item>latn_qwerty_haw</item>
     <item>latn_qwerty_hu</item>
+    <item>latn_qwerty_is</item>
     <item>latn_qwerty_jp</item>
     <item>latn_qwerty_kk</item>
     <item>latn_qwerty_lt</item>
@@ -80,6 +81,7 @@
     <item>latn_qwertz_sq</item>
     <item>latn_workman_us</item>
     <item>shaw_imperial_en</item>
+    <item>sinhala_phonetic</item>
     <item>tamil_default</item>
     <item>urdu_phonetic_ur</item>
     <item>custom</item>
@@ -137,6 +139,7 @@
     <item>QWERTY (UK)</item>
     <item>QWERTY (Hawaiian)</item>
     <item>QWERTY (Magyar)</item>
+    <item>QWERTY (Íslenska)</item>
     <item>QWERTY (Japan)</item>
     <item>QWERTY (Qazaqşa)</item>
     <item>QWERTY (Lietuviškai)</item>
@@ -163,6 +166,7 @@
     <item>QWERTZ (Albanian)</item>
     <item>WORKMAN (US)</item>
     <item>Shaw Imperial</item>
+    <item>සිංහල</item>
     <item>தமிழ்</item>
     <item>Urdu Phonetic</item>
     <item>@string/pref_layout_e_custom</item>
@@ -220,6 +224,7 @@
     <item>@xml/latn_qwerty_gb</item>
     <item>@xml/latn_qwerty_haw</item>
     <item>@xml/latn_qwerty_hu</item>
+    <item>@xml/latn_qwerty_is</item>
     <item>@xml/latn_qwerty_jp</item>
     <item>@xml/latn_qwerty_kk</item>
     <item>@xml/latn_qwerty_lt</item>
@@ -246,6 +251,7 @@
     <item>@xml/latn_qwertz_sq</item>
     <item>@xml/latn_workman_us</item>
     <item>@xml/shaw_imperial_en</item>
+    <item>@xml/sinhala_phonetic</item>
     <item>@xml/tamil_default</item>
     <item>@xml/urdu_phonetic_ur</item>
     <item>-1</item>
