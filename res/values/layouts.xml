@@ -82,6 +82,7 @@
     <item>latn_qwertz_sk</item>
     <item>latn_qwertz_sq</item>
     <item>latn_workman_us</item>
+    <item>shaw_10key</item>
     <item>shaw_imperial_en</item>
     <item>sinhala_phonetic</item>
     <item>tamil_default</item>
@@ -169,6 +170,7 @@
     <item>QWERTZ (Slovak)</item>
     <item>QWERTZ (Albanian)</item>
     <item>WORKMAN (US)</item>
+    <item>Shaw 10-key Jao</item>
     <item>Shaw Imperial</item>
     <item>සිංහල</item>
     <item>தமிழ்</item>
@@ -256,6 +258,7 @@
     <item>@xml/latn_qwertz_sk</item>
     <item>@xml/latn_qwertz_sq</item>
     <item>@xml/latn_workman_us</item>
+    <item>@xml/shaw_10key</item>
     <item>@xml/shaw_imperial_en</item>
     <item>@xml/sinhala_phonetic</item>
     <item>@xml/tamil_default</item>
