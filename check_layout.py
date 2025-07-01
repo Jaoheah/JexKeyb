@@ -8,7 +8,7 @@ KNOWN_NOT_LAYOUT = set([
     "number_row", "numpad", "pin",
     "bottom_row", "settings", "method",
     "greekmath", "numeric", "emoji_bottom_row",
-    "clipboard_bottom_row" ])
+    "clipboard_bottom_row", "shaw_10key" ])
 
 KEY_ATTRIBUTES = set([
     "key0", "key1", "key2", "key3", "key4", "key5", "key6", "key7", "key8",
