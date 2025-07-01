@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keyboard name="Shaw 10-key Jao" script="shavian">
+  <row>
+    <key width="1.25" key0="delete" key3="switch_emoji" key4="\@"/>
+    <key key0="𐑐" key3="+" key4="=" key5="𐑓" key6="𐑝" key7="𐑚" key8="𐑴"/>
+    <key key0="𐑦" key5="𐑫" key6="𐑵" key7="𐑰" key8="𐑾"/>
+    <key key0="𐑑" key3="%" key4="\#" key5="𐑘" key6="𐑢" key7="𐑛" key8="𐑿"/>
+    <key width="1.25" key0="backspace" key4="switch_greekmath" key8="loc change_method"/>
+  </row>
+  <row>
+    <key width="1.25" slider="true" key0="left" key3="ctrl" key4="alt" key5="cursor_left" key6="cursor_right" key8="fn"/>
+    <key key0="𐑯" key1="`" key4="*" key5="𐑪" key6="𐑳" key7="𐑥" key8="𐑙"/>
+    <key key0="𐑩" key5="𐑻" key6="𐑺" key7="𐑽" key8="𐑼"/>
+    <key key0="𐑧" key4="$" key5="𐑨" key6="𐑲" key7="𐑱" key8="𐑣"/>
+    <key width="1.25" slider="true" key0="right" key5="cursor_left" key6="cursor_right"/>
+  </row>
+  <row>
+    <key width="1.25" key0="selectAll" key5="pasteAsPlainText" key6="paste" key7="cut" key8="copy"/>
+    <key key0="𐑒" key5="𐑗" key6="𐑡" key7="𐑜" key8="𐑬"/>
+    <key key0="𐑤" key3="‹" key4="›" key5="𐑸" key6="𐑹" key7="𐑮"/>
+    <key key0="𐑕" key5="𐑖" key6="𐑠" key7="𐑟" key8="𐑶"/>
+    <key width="1.25" key0="space" key7="switch_forward" key8="switch_backward"/>
+  </row>
+  <row>
+    <key width="1.25" key0="switch_numeric" key7="config"/>
+    <key key0="·" key5=":" key6=";" key7="⸰" key8="~"/>
+    <key key0="𐑞" key3="«" key4="»" key5="𐑭" key6="𐑷" key7="𐑔" key8="-"/>
+    <key key0="." key5="!" key6="\?" key7=","/>
+    <key width="1.25" key0="enter" key7="\n"/>
+  </row>
+</keyboard>
