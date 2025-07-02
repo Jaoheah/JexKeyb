@@ -23,7 +23,7 @@ android {
   sourceSets {
     main {
       manifest.srcFile 'AndroidManifest.xml'
-      java.srcDirs = ['srcs/jaoheah.jexkeyb']
+      java.srcDirs = ['srcs/juloo.keyboard2']
       res.srcDirs = ['res', 'build/generated-resources']
       assets.srcDirs = ['assets']
     }
@@ -150,7 +150,7 @@ tasks.register('syncTranslations') {
 }
 
 tasks.register('compileComposeSequences') {
-  def out = "srcs/jaoheah.jexkeyb/ComposeKeyData.java"
+  def out = "srcs/juloo.keyboard2/ComposeKeyData.java"
   println "\nGenerating ${out}"
   exec {
     def sequences = new File(projectDir, "srcs/compose").listFiles().findAll {
