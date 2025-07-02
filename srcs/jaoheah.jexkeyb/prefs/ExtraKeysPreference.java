@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-import juloo.keyboard2.*;
+import jaoheah.jexkeyb.*;
 
 /** This class implements the "extra keys" preference but also defines the
     possible extra keys. */
