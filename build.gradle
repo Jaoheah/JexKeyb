@@ -9,15 +9,15 @@ dependencies {
 }
 
 android {
-  namespace 'jaoheah.jexkeyb'
+  namespace 'juloo.keyboard2'
   compileSdk 35
 
   defaultConfig {
-    applicationId "jaoheah.jexkeyb"
+    applicationId "juloo.keyboard2"
     minSdk 21
     targetSdkVersion 35
-    versionCode 1
-    versionName "1.0.0"
+    versionCode 49
+    versionName "1.32.0"
   }
 
   sourceSets {
